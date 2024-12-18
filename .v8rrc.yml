@@ -1,0 +1,6 @@
+patterns: ['*.json']
+
+format: "ndjson"
+
+plugins:
+    - "package:v8r-plugin-ndjson"

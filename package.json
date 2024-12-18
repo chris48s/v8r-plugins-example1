@@ -1,0 +1,11 @@
+{
+  "name": "v8r-plugins-example1",
+  "version": "0.0.0",
+  "dependencies": {
+    "v8r": "4.2.1",
+    "v8r-plugin-ndjson": "0.1.0"
+  },
+  "scripts": {
+    "validate": "v8r"
+  }
+}
